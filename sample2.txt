@@ -1,3 +1,6 @@
 name:ashanka
 fav food:sandwich
 fav color:black
+tejaswi
+fav food:choclate
+fav color:blue
